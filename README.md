@@ -2,6 +2,7 @@
 =======================
 
 Rock, Paper, Scissors!
+Python v3.9.2
 
 Classic children's game and game of chance!
 
